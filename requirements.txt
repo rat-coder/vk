@@ -1,0 +1,7 @@
+vk_api
+random
+time
+cv2
+requests
+json
+message
