@@ -8,7 +8,8 @@ from message import *
 
 
 # token = '29f61fa9e773e99cd9a17c58b9fa7dfb95b42e27209736911485581fa617960276750d2585b4ee54ece2a'
-token = '568c473603c73b0627cdd252e95aaf69cc5213d6272e84d3ec6cdc5c6033e0be7238674ef9d9046f75c0e' # my
+# token = '568c473603c73b0627cdd252e95aaf69cc5213d6272e84d3ec6cdc5c6033e0be7238674ef9d9046f75c0e' # my
+token = input('Введите токен пользователя')
 
 def write_json(data, filename):
     with open(filename, 'w') as file:
