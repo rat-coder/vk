@@ -1,6 +1,4 @@
 vk_api
-random
-time
 opencv-python
 requests
 json
