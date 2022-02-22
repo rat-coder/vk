@@ -1,7 +1,7 @@
 vk_api
 random
 time
-cv2
+opencv-python
 requests
 json
 message
